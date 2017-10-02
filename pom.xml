@@ -26,7 +26,7 @@
         <commonsLangVersion>3.6</commonsLangVersion>
         <guavaVersion>18.0</guavaVersion>
         <springVersion>4.1.9.RELEASE</springVersion>
-        <muleSpringModuleVersion>2.0.0-greenarrow</muleSpringModuleVersion>
+        <muleSpringModuleVersion>1.0.0-greenarrow</muleSpringModuleVersion>
         <formatterConfigPath>formatter.xml</formatterConfigPath>
     </properties>
 
